@@ -1,0 +1,8 @@
+- yoooo
+- im extremely new to coding, but i really want to learn
+- the most my experience extends to is basic coding concepts
+- such as the hour of code games, playground, essentially
+- just gamified coding, using blueprints (like ue5)
+- little blocks that's like a prebuilt line of code
+- such as "if___ then ___"
+- hoping to learn enough to actually create something usable.
